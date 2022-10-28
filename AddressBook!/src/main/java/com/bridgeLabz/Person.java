@@ -24,7 +24,7 @@ public class Person {
 	public void setPhonenumber(long phonenumber) {
 		this.phonenumber = phonenumber;
 	}
-	public Address getAddress() {
+	public  Address getAddress() {
 		return address;
 	}
 	public void setAddress(Address address) {
